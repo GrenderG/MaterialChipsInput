@@ -46,4 +46,4 @@ dependencies {
 }
 
 apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.pchmn'
+group='com.github.GrenderG'
